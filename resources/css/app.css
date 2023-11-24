@@ -5,3 +5,40 @@
 [x-cloak] {
     display: none;
 }
+
+/* Añade esto en tu archivo CSS o dentro de una etiqueta <style> en tu layout */
+.btn-spotify {
+    background-color: #1DB954; /* Color verde de Spotify */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.btn-spotify:hover {
+    background-color: #1ED760;
+}
+
+.btn-logout {
+    background-color: #E0245E; /* Un rojo/rosa para el botón de Logout */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.btn-logout:hover {
+    background-color: #FA375A;
+}

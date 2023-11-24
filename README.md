@@ -1,4 +1,4 @@
-Spotify Authentication Manager for Laravel"
+Integrar la autenticación de Spotify
 
 Descripción para GitHub
 Este proyecto, "Spotify Authentication Manager for Laravel", ofrece una solución elegante y segura para integrar la autenticación de Spotify en aplicaciones web desarrolladas con el framework Laravel. Utiliza las capacidades de Laravel para manejar sesiones, solicitudes HTTP y configuraciones de manera eficiente, garantizando un flujo de autenticación seguro y confiable.
